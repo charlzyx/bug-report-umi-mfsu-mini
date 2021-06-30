@@ -1,4 +1,4 @@
-# 最小复现
+# 最小复现 https://github.com/umijs/umi/issues/6766#issuecomment-871192776
 
 # .umirc.ts
 
